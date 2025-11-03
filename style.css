@@ -5,6 +5,11 @@ body{
     background: #0B1D26;
     text-align: center;
 }
+@font-face {
+    font-family: angst;
+    src: url('./AngstVF.ttf') format('opentype');
+    font-style: normal;
+}
 
 a{ 
     color: white;
